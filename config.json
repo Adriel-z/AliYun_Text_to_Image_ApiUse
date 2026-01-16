@@ -1,0 +1,4 @@
+{
+    "DASHSCOPE_API_KEY": "此处换成你的api密钥，以sk开头的",
+    "MODEL": "qwen-image-max"
+}
